@@ -114,6 +114,5 @@ build
 .strapi-updater.json
 .strapi-cloud.json
 
-package-lock.json
 yarn.lock
-pmp.lock
+pnpm-lock.yaml
